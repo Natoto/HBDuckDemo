@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[XXDuckEntity setInnerDictionary:]:XXDuckEntity.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XXDuckEntity initWithJSONString:]:XXDuckEntity.m">
+      </ContextState>
+      <ContextState
+         contextName = "XXDuckEntityCreateWithDictonary:XXDuckEntity.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XXAppDelegate demoJsonEntity]:XXAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "smdentity.code">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XXDuckEntity methodSignatureForSelector:]:XXDuckEntity.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XXDuckEntity forwardInvocation:]:XXDuckEntity.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "invocation.selector">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XXDIProxy injectDependencyObject:forProtocol:]:XXDIProxy.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

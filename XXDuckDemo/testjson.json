@@ -1,0 +1,72 @@
+{
+    "code": 1,
+    "message": "接口请求成功",
+    "data": {
+        "total": 2,
+        "per_page": 15,
+        "current_page": 1,
+        "last_page": 1,
+        "next_page_url": null,
+        "prev_page_url": null,
+        "from": 1,
+        "to": 2,
+        "data": [
+                 {
+                 "askUser": {
+                 "nick": "AppleTestUser",
+                 "avatar": "https://smd.bs2dl-ssl.yy.com/profile_ios_13000000000_1489386236499.jpeg",
+                 "answers": 0,
+                 "intro": "I am apple tester\n",
+                 "fans": 2,
+                 "credit": 43120,
+                 "credit_free": 50,
+                 "ban": 0,
+                 "has_focus": 1,
+                 "uid": 39
+                 },
+                 "qaInfo": {
+                 "id": 199,
+                 "price": "5.00",
+                 "content": "他一哦哦",
+                 "answer": "",
+                 "duration": 1,
+                 "listens": 0,
+                 "status": 1,
+                 "question_type": 1,
+                 "question_type_name": "1元偷偷听",
+                 "created_at": "2017-03-16 15:54:02",
+                 "updated_at": "2017-03-16 15:55:01",
+                 "listen_free": 2
+                 }
+                 },
+                 {
+                 "askUser": {
+                 "nick": "AppleTestUser",
+                 "avatar": "https://smd.bs2dl-ssl.yy.com/profile_ios_13000000000_1489386236499.jpeg",
+                 "answers": 0,
+                 "intro": "I am apple tester\n",
+                 "fans": 2,
+                 "credit": 43120,
+                 "credit_free": 50,
+                 "ban": 0,
+                 "has_focus": 1,
+                 "uid": 39
+                 },
+                 "qaInfo": {
+                 "id": 197,
+                 "price": "5.00",
+                 "content": "贵哦基金",
+                 "answer": "",
+                 "duration": 2,
+                 "listens": 0,
+                 "status": 1,
+                 "question_type": 1,
+                 "question_type_name": "1元偷偷听",
+                 "created_at": "2017-03-16 15:52:13",
+                 "updated_at": "2017-03-16 15:55:01",
+                 "listen_free": 2
+                 }
+                 }
+                 ]
+    }
+}
